@@ -1,0 +1,37 @@
+| Xüsusiyyət                          | Dəyər |
+| ----------------------------------- | ----- |
+| Kredit Limitindən İstifadə Dərəcəsi | 0.1   |
+| Yaş                                 | 40    |
+| 30-59 Gün Gecikmə Sayı              | 0     |
+| Borç/Gəlir Nisbəti                  | 0.2   |
+| Aylıq Gəlir                         | 6000  |
+| Açıq Kredit Sayı                    | 6     |
+| 90+ Gün Gecikmə Sayı                | 0     |
+| İpoteka Kreditləri                  | 1     |
+| 60-89 Gün Gecikmə Sayı              | 0     |
+| Asılı Şəxslər                       | 1     |
+
+etibarlı müştəri
+
+
+
+| Xüsusiyyət                          | Dəyər |
+| ----------------------------------- | ----- |
+| Kredit Limitindən İstifadə Dərəcəsi | 0.9   |
+| Yaş                                 | 25    |
+| 30-59 Gün Gecikmə Sayı              | 3     |
+| Borç/Gəlir Nisbəti                  | 1.5   |
+| Aylıq Gəlir                         | 2000  |
+| Açıq Kredit Sayı                    | 10    |
+| 90+ Gün Gecikmə Sayı                | 2     |
+| İpoteka Kreditləri                  | 0     |
+| 60-89 Gün Gecikmə Sayı              | 2     |
+| Asılı Şəxslər                       | 3     |
+
+riskli müştəri
+
+
+
+
+
+
