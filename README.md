@@ -1,0 +1,2 @@
+# Kredit_Risk_Analizi
+“Give Me Some Credit” dataset-i, kredit riskinin təhlili və müştəri davranışlarının proqnozlaşdırılması məqsədilə geniş istifadə olunan real dünya maliyyə məlumatlarını əhatə edir. Bu dataset, fərdi şəxslərin kredit ödənişlərini gecikdirib-gecikdirməyəcəyini müəyyənləşdirmək üçün hazırlanmışdır. Müştərinin yaş, gəlir səviyyəsi, kredit tarixçəsi, borc yükü və ödəniş gecikmələri kimi faktorlarına əsaslanaraq, onların kreditləri ödəmə qabiliyyəti qiymətləndirilir və risk profilləri formalaşdırılır.
